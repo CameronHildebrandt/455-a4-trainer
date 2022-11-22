@@ -1,0 +1,165 @@
+Script started on Mon Oct 17 22:55:57 2022
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+[?1034h(base) [1;15mA2: [mmkdir testing
+(base) [1;15mA2: [mcp /Users/cameronhildebrandt/Files/School/S11\ Fa22/Cmput\ 455/Assignments/A2/assignment2.tgz  /Users/came ronhildebrandt/Files/School/S11\ Fa22/Cmput\ 455/Assignments/A2/testing 
+(base) [1;15mA2: [mcd testing/
+(base) [1;15mtesting: [mtar xvfz assignment1.tgz[1P.tgz2.tgz
+x assignment2/
+x assignment2/board.py
+x assignment2/a2-sample.gtp
+x assignment2/board_util.py
+x assignment2/Go0.py
+x assignment2/assignment2.tgz
+x assignment2/run_Go0.sh
+x assignment2/gtp_connection.py
+x assignment2/__pycache__/
+x assignment2/board_base.py
+x assignment2/engine.py
+x assignment2/a2_public_easy.gtp
+x assignment2/a2_public_medium.gtp
+x assignment2/.git/
+x assignment2/a2_public_hard.gtp
+x assignment2/.git/ORIG_HEAD
+x assignment2/.git/config
+x assignment2/.git/objects/
+x assignment2/.git/HEAD
+x assignment2/.git/info/
+x assignment2/.git/logs/
+x assignment2/.git/description
+x assignment2/.git/hooks/
+x assignment2/.git/refs/
+x assignment2/.git/index
+x assignment2/.git/branches/
+x assignment2/.git/packed-refs
+x assignment2/.git/COMMIT_EDITMSG
+x assignment2/.git/FETCH_HEAD
+x assignment2/.git/refs/heads/
+x assignment2/.git/refs/tags/
+x assignment2/.git/refs/remotes/
+x assignment2/.git/refs/remotes/origin/
+x assignment2/.git/refs/remotes/origin/HEAD
+x assignment2/.git/refs/remotes/origin/main
+x assignment2/.git/refs/heads/main
+x assignment2/.git/hooks/commit-msg.sample
+x assignment2/.git/hooks/pre-rebase.sample
+x assignment2/.git/hooks/pre-commit.sample
+x assignment2/.git/hooks/applypatch-msg.sample
+x assignment2/.git/hooks/fsmonitor-watchman.sample
+x assignment2/.git/hooks/pre-receive.sample
+x assignment2/.git/hooks/prepare-commit-msg.sample
+x assignment2/.git/hooks/post-update.sample
+x assignment2/.git/hooks/pre-applypatch.sample
+x assignment2/.git/hooks/pre-push.sample
+x assignment2/.git/hooks/update.sample
+x assignment2/.git/logs/HEAD
+x assignment2/.git/logs/refs/
+x assignment2/.git/logs/refs/heads/
+x assignment2/.git/logs/refs/remotes/
+x assignment2/.git/logs/refs/remotes/origin/
+x assignment2/.git/logs/refs/remotes/origin/HEAD
+x assignment2/.git/logs/refs/remotes/origin/main
+x assignment2/.git/logs/refs/heads/main
+x assignment2/.git/info/exclude
+x assignment2/.git/objects/95/
+x assignment2/.git/objects/69/
+x assignment2/.git/objects/3c/
+x assignment2/.git/objects/56/
+x assignment2/.git/objects/b5/
+x assignment2/.git/objects/b2/
+x assignment2/.git/objects/d6/
+x assignment2/.git/objects/e2/
+x assignment2/.git/objects/fc/
+x assignment2/.git/objects/fd/
+x assignment2/.git/objects/ca/
+x assignment2/.git/objects/c8/
+x assignment2/.git/objects/c1/
+x assignment2/.git/objects/ec/
+x assignment2/.git/objects/4e/
+x assignment2/.git/objects/pack/
+x assignment2/.git/objects/7d/
+x assignment2/.git/objects/42/
+x assignment2/.git/objects/45/
+x assignment2/.git/objects/28/
+x assignment2/.git/objects/17/
+x assignment2/.git/objects/7e/
+x assignment2/.git/objects/21/
+x assignment2/.git/objects/07/
+x assignment2/.git/objects/38/
+x assignment2/.git/objects/info/
+x assignment2/.git/objects/5e/
+x assignment2/.git/objects/08/
+x assignment2/.git/objects/0a/
+x assignment2/.git/objects/d3/
+x assignment2/.git/objects/ba/
+x assignment2/.git/objects/b0/
+x assignment2/.git/objects/c4/
+x assignment2/.git/objects/cc/
+x assignment2/.git/objects/e6/
+x assignment2/.git/objects/f9/
+x assignment2/.git/objects/f6/
+x assignment2/.git/objects/46/
+x assignment2/.git/objects/12/
+x assignment2/.git/objects/85/
+x assignment2/.git/objects/76/
+x assignment2/.git/objects/40/
+x assignment2/.git/objects/22/
+x assignment2/.git/objects/22/63cde6a0ff7842091e6b66b6566a4ff3c6fc87
+x assignment2/.git/objects/40/6c17284badcd541038f53a44391716d468e2cd
+x assignment2/.git/objects/76/e7c1bbfb6d79b7ead8ae6457dd0ccb28087782
+x assignment2/.git/objects/85/b4a7cff1e225314a6fe767c082727628e8ed25
+x assignment2/.git/objects/12/625c1553659ca4e1bab9c62f20a63f1525df89
+x assignment2/.git/objects/46/97257cfe1faad97472c30d38d299fb239783c7
+x assignment2/.git/objects/f6/02b532071f3f04ce2d83f4e8387d368ef8874b
+x assignment2/.git/objects/f9/6e5dba67e2fe2e2798ce5a121cda4bf26aa4cc
+x assignment2/.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+x assignment2/.git/objects/cc/d4d0d82a31233babb6156583bf0df3fddea05a
+x assignment2/.git/objects/c4/97f158ee4d36bfef955fb564d6027a4e939fe5
+x assignment2/.git/objects/b0/bbb6bbdd0fcc803a5f6dd154fbee9c98af943e
+x assignment2/.git/objects/ba/ca8cf8af4e55c5507df5247c817f9ebc488a27
+x assignment2/.git/objects/d3/8a6664499fdf5463d9036ba95371dcab8ae61c
+x assignment2/.git/objects/0a/3105db51c037bd20d8e88126798914942436eb
+x assignment2/.git/objects/08/bb536e9be2e7af5eab29e420277ed650cb6fa0
+x assignment2/.git/objects/5e/ef8334eb0d86b88e6feed25c5b3031b7afdce5
+x assignment2/.git/objects/38/dd449c459ba664ac42e3967954f8f0a0f93cb9
+x assignment2/.git/objects/07/06cd42ffc6ff05bd830a805912fcbc5d6ab1bc
+x assignment2/.git/objects/21/8220a8df87271a14b8c560fa13c71e6382ca91
+x assignment2/.git/objects/7e/b0fc53ea5abc5293b00c6ba634b382400e7351
+x assignment2/.git/objects/17/fac842805a791af9ce9bb39c9b0f48a0ea87a5
+x assignment2/.git/objects/28/f2841859559f7cace5b4ff9a345d173520282c
+x assignment2/.git/objects/45/8766aa568490fab5de4c95717c96e3799b1912
+x assignment2/.git/objects/42/1276fdd593483edd59efbdbfe31c1cfbce69ca
+x assignment2/.git/objects/7d/7cbb5326acd276d71f1b0c58202429df948bef
+x assignment2/.git/objects/4e/f7592e963f0642cfd4a5483cfe37dc957dafed
+x assignment2/.git/objects/4e/e504acad49fc65a9b50c52c4b4d71cdba57a41
+x assignment2/.git/objects/ec/af678b9d23efab4c4732631ad5496ec7c3e028
+x assignment2/.git/objects/c1/3f14fbaa6d18b49efc54c7a43e9a6edd49c4f3
+x assignment2/.git/objects/c8/b52cea6e9bade41bacd5299199a27eabe34acc
+x assignment2/.git/objects/ca/8398a833b76cbac35a54aae44f9ca55a3f8b6e
+x assignment2/.git/objects/fd/79e3a47ab1ab9a6d05d088bdafe53143704e5c
+x assignment2/.git/objects/fd/8a3f9a7177e21b0836df1f042674d280fb1563
+x assignment2/.git/objects/fc/ef4222d513ac10c2a30aa062c7d0c20ccada28
+x assignment2/.git/objects/e2/4d8aed7f77cadf3250cc494622be09f3697d56
+x assignment2/.git/objects/d6/0cb3ea730f127107d4e7fb564e66e931dfec98
+x assignment2/.git/objects/d6/e6486c99a917d27f5ec91a5fb557d092dbd03a
+x assignment2/.git/objects/b2/41fb8a17107365382d5069928077fc3536b2e2
+x assignment2/.git/objects/b5/21587695890634770cbaa51b9230805dae7205
+x assignment2/.git/objects/56/33967a42ea90e7d250cfa7efbbad971d09974a
+x assignment2/.git/objects/3c/29d8207a97e33bc02bfe918a76367c175d57e8
+x assignment2/.git/objects/69/83f1c536e905c367ec9de75164392cce8bd47a
+x assignment2/.git/objects/95/bd37522af6b1401f9f8e2b73d5278f95867f1c
+x assignment2/__pycache__/board_base.cpython-38.pyc
+x assignment2/__pycache__/gtp_connection.cpython-38.pyc
+x assignment2/__pycache__/board.cpython-38.pyc
+x assignment2/__pycache__/board_util.cpython-38.pyc
+x assignment2/__pycache__/engine.cpython-38.pyc
+(base) [1;15mtesting: [mcd assignment2
+(base) [1;15massignment2: [mgogui-regress ./run_go[K[KGo0.sh a2_public_easy.gtp
+bash: gogui-regress: command not found
+(base) [1;15massignment2: [m/Users/cameronhildebrandt/Files/School/S11\ Fa22/Cmput\ 455/GoGui/gogui-1.5.1/bin/gogui-regress . /run_Go0.sh a2_public_easy.gtp
+(base) [1;15massignment2: [mexit
+exit
+
+Script done on Mon Oct 17 22:58:28 2022

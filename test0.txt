@@ -1,0 +1,11 @@
+boardsize 4
+clear_board
+timelimit 10
+play b a4
+play w a2
+play b b1
+play w b3
+play b c2
+play w d1
+play b d3
+solve

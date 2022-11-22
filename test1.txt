@@ -1,0 +1,5 @@
+boardsize 4
+clear_board
+timelimit 50
+play b a4
+solve

@@ -1,0 +1,42 @@
+boardsize 7
+clear_board
+timelimit 100
+play b c6
+play w d5
+play b a7
+play w g7
+play b a2
+play w e4
+play b a3
+play w f1
+play b c3
+play w d7
+play b d3
+play w g4
+play b c4
+play w b7
+play b c2
+play w f2
+play b g5
+play w b6
+play b e2
+play w b4
+play b b2
+play w a5
+play b b5
+play w g3
+play b g1
+play w e7
+play b a4
+play w d4
+play b b1
+play w f4
+play b a1
+play w e3
+play b c1
+play w e6
+play b f6
+play w e1
+play b e5
+showboard
+solve
